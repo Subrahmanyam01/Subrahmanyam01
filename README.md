@@ -43,7 +43,7 @@ Welcome to my GitHub! I'm a curious builder, a lifelong learner, and someone who
 ## 📬 Let's Connect
 
 - **Email:** lc.subrahmanyam@gmail.com
-- **LinkedIn:** [linkedin.com/in/subrahmanyam-k](https://linkedin.com/in/subrahmanyam-k)
+- **LinkedIn:** [linkedin.com/in/subrahmanyam-k]([https://linkedin.com/in/subrahmanyam-k](https://www.linkedin.com/in/subrahmanyam-konakanchi-91ba651bb))
 - **LeetCode:** [Subrahmanyam_k](https://leetcode.com/u/Subrahmanyam_k/)
 
 ---
