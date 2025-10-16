@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a curious builder, a lifelong learner, and someone who
 
 ## 🌱 About Me
 
-- 🏙️ Currently based in Gainesville, FL (but always happy to collaborate with folks from anywhere!)
+- 🏙️ Currently based in Mount Juliet, TN (but always happy to collaborate with folks from anywhere!)
 - 🚀 Software engineer with a soft spot for clean APIs, scalable data flows, and the magic of automation.
 - 🌐 Full stack enthusiast who enjoys bridging the gap between crisp user interfaces and robust backend logic.
 - 💡 I enjoy blending technology and creativity, whether that’s building tools, exploring new frameworks, or experimenting with data visualizations.
