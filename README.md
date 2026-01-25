@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm a curious builder, a lifelong learner, and someone who
 
 ## 💬 What I'm Up To
 
-- Specializing in full stack development — from designing robust backend APIs to building responsive frontends that just feel right.
+- Specializing in full stack development from designing robust backend APIs to building responsive frontends that just feel right.
 - Exploring how AI/ML can be seamlessly integrated into everyday products, not just as a buzzword.
 - Contributing to open source when I can, especially in tools that help developers be more productive.
 - Constantly learning, whether that's keeping up with the latest in web tech, cloud tools, or experimenting with side projects that challenge my comfort zone.
